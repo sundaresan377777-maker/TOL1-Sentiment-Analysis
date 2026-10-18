@@ -1,0 +1,126 @@
+text,sentiment,domain
+"The battery life on this laptop is incredible, lasts well over 14 hours on a single charge.",positive,electronics
+"Absolutely fantastic sound quality and very comfortable to wear for long listening sessions.",positive,electronics
+"I am thoroughly impressed with the camera clarity in low-light environments.",positive,electronics
+"The build quality feels premium and sturdy, well worth every penny spent.",positive,electronics
+"Setup was effortless and took less than three minutes to connect to my home network.",positive,electronics
+"Super fast delivery and the packaging was immaculate. Highly recommend this seller!",positive,service
+"Customer service responded within five minutes and resolved my refund request immediately.",positive,service
+"The food at this restaurant was exceptionally fresh and bursting with authentic flavor.",positive,food
+"Our server was polite, attentive, and made our anniversary dinner truly memorable.",positive,food
+"This software application is smooth, intuitive, and has significantly boosted my daily productivity.",positive,software
+"The screen display is vibrant with deep rich blacks and breathtaking colors.",positive,electronics
+"Best purchase I have made all year! Exceeded all my expectations.",positive,retail
+"The hotel room was spotless, peaceful, and had a spectacular view of the harbor.",positive,travel
+"Very lightweight yet durable material. Fits comfortably and looks very stylish.",positive,apparel
+"The book provides clear explanations and insightful examples for beginner programmers.",positive,books
+"The package arrived three days earlier than promised in pristine condition.",positive,service
+"Great value for money, offers high-end performance at an affordable budget.",positive,retail
+"The keyboard keys have a satisfying tactile click that makes typing a joy.",positive,electronics
+"Friendly staff and rapid check-in process made our stay very enjoyable.",positive,travel
+"I love how quiet the cooling fan runs even under heavy processing workloads.",positive,electronics
+"The user interface is minimalist, modern, and very easy to navigate.",positive,software
+"Delicious coffee and wonderful ambiance to sit down and read a book.",positive,food
+"The wireless connection is rock-solid with zero dropouts across my entire apartment.",positive,electronics
+"Five stars! The craftsmanship is top notch and the customer support is world-class.",positive,retail
+"The tutorial explained complex machine learning concepts in such simple terms.",positive,education
+"The device stopped working after just three days of very light usage.",negative,electronics
+"Terrible audio quality with a persistent buzzing background static that gives me a headache.",negative,electronics
+"The customer support representative was rude and refused to honor the warranty policy.",negative,service
+"Shipping took over four weeks and the item arrived severely damaged inside a crushed box.",negative,service
+"Complete waste of money, the product broke immediately upon first use.",negative,retail
+"The meal was completely bland, cold, and took over an hour to reach our table.",negative,food
+"Extremely disappointed with the cheap plastic feel and flimsy build.",negative,electronics
+"The software constantly freezes and crashes whenever I try to export my work.",negative,software
+"The hotel room smelled damp and the air conditioning unit was broken throughout the night.",negative,travel
+"Misleading product description, the actual size is much smaller than shown in pictures.",negative,retail
+"Battery drains from 100 percent to zero in less than two hours of basic browsing.",negative,electronics
+"Awful customer service, they transferred me between four departments without resolving anything.",negative,service
+"The restaurant staff ignored us completely while chatting behind the counter.",negative,food
+"The zipper broke on the first wear and the stitching is already coming loose.",negative,apparel
+"Unusable user interface, confusing navigation, and filled with aggressive ads.",negative,software
+"Overpriced and underperforming, I strongly advise buyers to stay away from this brand.",negative,retail
+"The shoes caused painful blisters within ten minutes of walking.",negative,apparel
+"Flight was delayed six hours without any explanation or complimentary refreshment.",negative,travel
+"Poor connectivity, the Bluetooth disconnects every few minutes automatically.",negative,electronics
+"The food tasted stale and made several members of our party feel sick.",negative,food
+"Instructions were incomprehensible and missing crucial setup diagrams.",negative,retail
+"Return policy is an absolute nightmare, demanding unnecessary restocking fees.",negative,service
+"The screen has dead pixels right in the center straight out of the box.",negative,electronics
+"Worst dining experience of my life, dirty cutlery and lukewarm soup.",negative,food
+"The application consumes too much memory and slows down my entire operating system.",negative,software
+"The parcel is scheduled to arrive between 2 PM and 5 PM on Tuesday.",neutral,service
+"The laptop has a 15.6 inch display and weighs approximately 1.8 kilograms.",neutral,electronics
+"The conference starts tomorrow morning at 9 AM in the main auditorium.",neutral,general
+"The recipe calls for two tablespoons of olive oil and one teaspoon of sea salt.",neutral,food
+"The software update is currently downloading and requires a system restart.",neutral,software
+"The train stops at five intermediate stations before reaching the downtown terminal.",neutral,travel
+"The store is open from Monday through Saturday between 10 AM and 8 PM.",neutral,retail
+"This television comes with three HDMI ports and two USB connections.",neutral,electronics
+"The package contains one pair of headphones, a charging cable, and a user manual.",neutral,electronics
+"The weather forecast predicts partly cloudy skies with temperatures around 20 degrees Celsius.",neutral,general
+"The document contains twelve pages and was published in October 2023.",neutral,general
+"The smartphone operates on the latest version of the Android mobile operating system.",neutral,electronics
+"I received the verification code via text message at 3:15 PM.",neutral,service
+"The flight from New York to London takes approximately seven hours.",neutral,travel
+"The battery capacity is rated at 5000 milliamp hours with 18 watt charging support.",neutral,electronics
+"The restaurant is located on the second floor next to the elevator.",neutral,food
+"The meeting has been rescheduled to Thursday at 11 AM in conference room B.",neutral,general
+"This book was written by an independent author and printed on recycled paper.",neutral,books
+"The product is available in three color options including black, silver, and blue.",neutral,retail
+"The payment was processed through the standard automated billing gateway.",neutral,service
+"The vehicle has an automatic transmission and comes with all-season tires.",neutral,automotive
+"The system requirements specify a minimum of 8 GB RAM and 256 GB storage.",neutral,software
+"The museum admission fee is fifteen dollars for adults and free for children under six.",neutral,travel
+"The package tracking number was updated thirty minutes ago by the courier service.",neutral,service
+"The keyboard has a standard QWERTY layout with a dedicated numerical keypad.",neutral,electronics
+"The noise cancellation works wonders during noisy subway commutes, absolutely love it.",positive,electronics
+"The fabric is so soft and comfortable, fits true to size and washes easily.",positive,apparel
+"Superb customer experience, they replaced my defective unit without any hassle.",positive,service
+"The dessert was phenomenal, rich chocolate ganache paired with refreshing mint.",positive,food
+"Fast and reliable laptop that handles heavy video editing effortlessly.",positive,electronics
+"The user documentation is comprehensive and made the onboarding process a breeze.",positive,software
+"Outstanding performance, smooth animations, and the battery lasts two full days.",positive,electronics
+"Warm and welcoming host who gave us wonderful recommendations for local attractions.",positive,travel
+"The coffee beans have a rich aromatic flavor with subtle notes of caramel.",positive,food
+"Very pleased with the build quality, feels robust and well designed.",positive,retail
+"The package was lost in transit and the courier refused to open an investigation.",negative,service
+"Constant software lag and annoying pop-up notifications ruin the entire experience.",negative,software
+"The coffee tasted like burnt water and cost seven dollars for a small cup.",negative,food
+"The phone heats up dangerously hot while charging and during phone calls.",negative,electronics
+"Very cheap materials, fell apart within two weeks of normal gentle use.",negative,retail
+"Unhelpful support staff gave conflicting information and wasted hours of my time.",negative,service
+"The movie was boring, predictable, and poorly directed from start to finish.",negative,entertainment
+"The food gave me severe food poisoning, will never dine here again.",negative,food
+"The app requires excessive permissions that have nothing to do with its function.",negative,software
+"Defective product delivered, the power button is completely jammed inside the housing.",negative,electronics
+"The hotel is situated 3 miles from the airport and offers a shuttle bus service.",neutral,travel
+"The report summarizes the financial results of the third fiscal quarter.",neutral,finance
+"The device uses a standard USB Type C cable for power and data transfer.",neutral,electronics
+"The library opens at 8 AM and closes promptly at 9 PM on weekdays.",neutral,general
+"The dish consists of steamed rice, grilled vegetables, and tofu.",neutral,food
+"The tracking status shows the package is currently at the distribution facility.",neutral,service
+"The warranty period is valid for twelve months from the original date of purchase.",neutral,retail
+"The workshop will cover fundamental concepts of natural language processing.",neutral,education
+"The display brightness can be adjusted manually using the settings menu.",neutral,electronics
+"The file format is PDF and the download size is approximately four megabytes.",neutral,software
+"I am delighted with this purchase, it has made my daily routine so much easier.",positive,general
+"Brilliant design, high performance, and worth every single dollar.",positive,retail
+"The pizza crust was perfectly crispy and the tomato sauce was fresh and tangy.",positive,food
+"Quick shipping, secure packaging, and exactly as described on the website.",positive,service
+"Remarkable noise isolation and crystal clear microphone during online meetings.",positive,electronics
+"The camera took blurry photos in daylight and the autofocus is painfully sluggish.",negative,electronics
+"Horrible smell upon opening the package, chemical odor that does not wash out.",negative,retail
+"The waiter was dismissive and rolled his eyes when we asked for water.",negative,food
+"The battery swelled up after three months, posing a serious safety hazard.",negative,electronics
+"No customer service phone number available, automated bot is completely useless.",negative,service
+"The conference agenda has been emailed to all registered attendees.",neutral,general
+"The smartphone dimensions are 146 millimeters by 70 millimeters by 8 millimeters.",neutral,electronics
+"The train arrived at platform 4 according to the scheduled departure timetable.",neutral,travel
+"The shirt is made from fifty percent cotton and fifty percent polyester fibers.",neutral,apparel
+"The software requires Windows 10 or macOS 12 to run properly.",neutral,software
+"The garden salad includes cucumbers, red onions, tomatoes, and balsamic dressing.",neutral,food
+"The package weight is recorded as two pounds and four ounces.",neutral,service
+"The museum exhibits artifacts from the early seventeenth century.",neutral,general
+"The tablet includes a stylus pen in the standard retail box.",neutral,electronics
+"The appointment is scheduled for next Wednesday afternoon at 2 PM.",neutral,general

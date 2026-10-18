@@ -1,0 +1,8 @@
+{
+  "name": "SentimentScope - NLP Sentiment Analysis System",
+  "description": "Beginner-friendly Sentiment Analysis system using Python, NLP, TF-IDF, and Scikit-learn Logistic Regression with an interactive web studio and downloadable project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
